@@ -1,4 +1,7 @@
 # Django_Kurs
 Repozytorium w ramach nauki Django z kursu "Django od podstaw"
 
-Tekst dodany w pierwotnym repo
+Tą linijkę dodałam używając innego repozytorium
+
+Ta linijka została dodana po naprawieniu błędu merge
+
